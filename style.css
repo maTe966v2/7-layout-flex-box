@@ -67,18 +67,18 @@ footer {
     }
 
     main {
-        width: 33%;
+        width: 33.333%;
         height: 90vh;
     }
 
     .left {
-        width: 33%;
+        width: 33.333%;
         height: 90vh;
         order: -1;
     }
 
     .right {
-        width: 33%;
+        width: 33.333%;
         height: 90vh;
     }
 }
